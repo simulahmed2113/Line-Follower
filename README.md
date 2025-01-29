@@ -60,7 +60,7 @@ Future work aims to enhance the robot's performance through system identificatio
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ## License
-
+This project is open-source.
 
 
 ## Acknowledgments
