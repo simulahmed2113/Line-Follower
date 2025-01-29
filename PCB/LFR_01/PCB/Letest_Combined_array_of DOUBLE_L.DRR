@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Letest_Combined_array_of DOUBLE_L.PcbDoc   12/19/2024  3:36:48 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Letest_Combined_array_of DOUBLE_L.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             2         PTH        3.56mm (0.14inch)
+T2      0.711mm (28mil)                                           Round             3         PTH        59.51mm (2.34inch)
+T3      0.75mm (30mil)                                            Round             5         PTH        22.90mm (0.90inch)
+T4      0.762mm (30mil)                                           Round             2         PTH        2.50mm (0.10inch)
+T5      0.9mm (35mil)                                             Round             72        PTH        432.52mm (17.03inch)
+T6      2mm (79mil)                                               Round             6         PTH        197.93mm (7.79inch)
+T7      2.007mm (79mil)                                           Round             4         PTH        219.50mm (8.64inch)
+T8      2.54mm (100mil)                                           Round             4         PTH        113.47mm (4.47inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              98
+
+Two holes at same point : 1
+-----------------------
+3010,105
+
+Total Processing Time (hh:mm:ss) : 00:00:00

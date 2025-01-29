@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Letest_Combined_array_of DOUBLE_L.TXT]
+   Generated File[Letest_Combined_array_of DOUBLE_L.LDP]
+   Generated File[Letest_Combined_array_of DOUBLE_L.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:36:48 PM On 12/19/2024
