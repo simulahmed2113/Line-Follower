@@ -21,6 +21,13 @@ Future work aims to enhance the robot's performance through system identificatio
 - **Control System:** Manually tuned PID control
 - **Communication:** Bluetooth module for remote control
 
+### 📸 Hardware Images
+
+![Hardware Top View](Media/IMG-20250130-WA0001.jpg)  
+![Hardware Assembly](Media/IMG-20250130-WA0002.jpg)  
+![Testing Setup](Media/IMG-20250130-WA0003.jpg)
+
+
 ## Repository Contents
 
 - **Diagram/**: Schematics and system diagrams
